@@ -1,2 +1,2 @@
-# Just-Paint-P1
-Just Paint P1 c34 project
+# p5.play-boilerplate
+Boiler plate for p5.play
